@@ -20,12 +20,11 @@
     Architecture Layer Applied:
 # APP Folder has the Main Application --> main.c
 
-HAL Folder has :
-
-LED Display Driver
-Keypad Driver
-LED Display Driver
-LCD Display Driver
-DC Motor
-MCAL Folder has DIO Driver (which is needed because HAL Layer Connecting to MCAL Layer).
-LIB Folder has .h Files has useful Macros to make the code easier and more readable.
+# HAL Folder has :
+  LED Display Driver.
+  Keypad Driver.
+  LED Display Driver.
+  LCD Display Driver.
+  DC Motor.
+  MCAL Folder has DIO Driver (which is needed because HAL Layer Connecting to MCAL Layer).
+# LIB Folder has .h Files has useful Macros to make the code easier and more readable.
