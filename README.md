@@ -1,7 +1,6 @@
 # LogIn-System to Motor Dash board:
     The system will wait until someone write Password to start the system.
     Then give the user tries to enter the right password [DEFAULT_PW = 1234].
-
 # Program Flow
   1.If the password is correct the Green Led ON.
     else Red Led ON, and re try to write the password.
