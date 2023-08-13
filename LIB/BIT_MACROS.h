@@ -39,7 +39,7 @@
 #define SET_REG(Reg)							Reg=0b11111111
 #define CLR_REG(Reg)							Reg=0b00000000
 #define TOGGLE_REG(Reg)							Reg^=(0b11111111)
-#define ASSIGN_REG(Reg, Value)
+#define ASSIGN_REG(Reg, Value)					Reg = Value
 
 
 #endif /* LIB_BIT_MACROS_H_ */

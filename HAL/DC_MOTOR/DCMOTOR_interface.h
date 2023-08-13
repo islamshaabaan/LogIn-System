@@ -2,7 +2,7 @@
  * DCMOTOR_interface.h
  *
  *  Created on: Aug 11, 2023
- *      Author: one
+ *      Author: Islam Shaaban
  */
 
 #ifndef HAL_DC_MOTOR_DCMOTOR_INTERFACE_H_
